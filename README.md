@@ -32,7 +32,3 @@ Pandas DataFlow é um projeto desenvolvido em Python para automatizar a manipula
 ## 🌟 Exemplos de Uso
 
 O projeto foi utilizado para processar dados de diferentes turmas e fases, organizando e preparando relatórios em formato CSV. Essa abordagem automatizada economiza tempo e minimiza erros em processos repetitivos de manipulação de dados.
-
----
-
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/AnubisChacal).
